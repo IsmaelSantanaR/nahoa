@@ -176,8 +176,8 @@ img {
   z-index: 999999;
   overflow: hidden; }
   .preloader .preloader-circle {
-    width: 80px;
-    height: 80px;
+    width: 220px;
+    height: 220px;
     position: relative;
     border-style: solid;
     border-width: 2px;
@@ -199,7 +199,7 @@ img {
     transform: translate(-50%, -50%);
     z-index: 200; }
     .preloader .preloader-img img {
-      max-width: 45px; }
+      max-width: 145px; }
 
 @-webkit-keyframes zoom {
   0% {
